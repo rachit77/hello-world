@@ -1,0 +1,7 @@
+Go to url.
+Enter username.
+Enter password.
+Click on login button.
+You are directed to your first repository.
+Have a look on it.
+It might be a first pull request considered for hactoberfest 2020.
